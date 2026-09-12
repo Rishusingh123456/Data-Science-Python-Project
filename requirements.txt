@@ -1,0 +1,9 @@
+python 
+numpy
+pandas 
+seaborn
+matplotlib
+Machine Leatning
+Deep Learning
+EDA
+Preprocessing
